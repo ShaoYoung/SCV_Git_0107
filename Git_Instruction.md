@@ -17,6 +17,8 @@ git config --global user.name "Ваше имя"
 git config --global user.email "Почта@examlpe.com"
 ```
 
+## 4. Создание репозитория
+Получить репозиторий можно двумя способами.
 
 
 
@@ -26,7 +28,10 @@ git config --global user.email "Почта@examlpe.com"
 
 
 
-```Python
+
+
+
+```Python (можно указать язык программирования)
 while (n < 5)
 {
     Console.Write(a)
