@@ -41,7 +41,18 @@ git clone https://github.com/libgit2/libgit2 mylibgit
 
 > git status
 
+Сокращённый вывод статуса
+> git status -s или git status --short
 
+## 6. Отслеживание новых файлов
+
+Для того чтобы начать отслеживать (добавить под версионный контроль) новый файл, используется команда git add. Например:
+> git add readme.txt
+
+Команда:
+> git commit -am "commit"
+
+объединяет в себе git add и git commit -m 
 
 
 
