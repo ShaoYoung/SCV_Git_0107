@@ -118,8 +118,6 @@ git checkout master
 
 p.s. 
 
-Больше информации по Git:
-[https://git-scm.com/book/ru/]
+[Больше информации по Git:](https://git-scm.com/book/ru/)
 
-Больше информации по markdown:
-[http://konvut.github.io/k50articles/#_4]
+[Больше информации по markdown:](http://konvut.github.io/k50articles/#_4)
