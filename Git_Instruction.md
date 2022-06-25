@@ -70,5 +70,10 @@ git diff
 git diff показывает пользователю непосредственно добавленные и удалённые строки.
 
 
+p.s. 
 
+Больше информации по Git:
+[https://git-scm.com/book/ru/]
 
+Больше информации по markdown:
+[http://konvut.github.io/k50articles/#_4]
