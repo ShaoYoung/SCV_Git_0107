@@ -1,3 +1,5 @@
+![Logo](Git-logo.png)
+
 # Работа с Git
 
 # Семинар 1
