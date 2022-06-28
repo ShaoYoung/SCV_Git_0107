@@ -153,4 +153,6 @@ git clone https://github.com/libgit2/libgit2
 git log
 ```
 
-aaaaaaa
+## Домашнее задание к семинару 2
+
+Начинается отсюда
