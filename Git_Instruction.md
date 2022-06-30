@@ -167,6 +167,9 @@ git log
 
 Есть 2 способа создать ссылку
 [С указанием ссылки сразу](https://www.google.com)
+[С указанием ссылки в сноске][Arbitrary case-insensitive reference text]
+
+[Можно использовать цифры в качестве сносок][1]
 
 # Картинки в Markdown
 
