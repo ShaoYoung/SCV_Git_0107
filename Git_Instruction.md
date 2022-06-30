@@ -165,6 +165,10 @@ git log
 
 # Ссылки в Markdown
 
+[С указанием ссылки в сноске][Arbitrary case-insensitive reference text]
+
+[Можно использовать цифры в качестве сносок][1]
+
 # Картинки в Markdown
 
 # Удалённый репозиторий
