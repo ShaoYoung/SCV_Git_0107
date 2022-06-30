@@ -176,7 +176,22 @@ master = master + linking
 
 # Картинки в Markdown
 
-провокация конфликта при загрузке ветки pictures
+Изображения задаются почти также, как и ссылки (2 способа)
+
+1. Задание ссылки на изображения сразу: 
+![alt text](http://k50.ru/img/logos/logo_on_red.png "Logo Title Text 1")
+
+2. Указание ссылки на изображение в сноске: 
+![alt text][logo]
+
+[logo]: http://k50.ru/img/logos/logo_on_red.png "Logo Title Text 2"
+
+Пример 1-го способа:
+
+![всё получится](All_good.jpg)
+
+А вот и ссылка на картинку)
+[всё получится](All_good.jpg)
 
 # Удалённый репозиторий
 
