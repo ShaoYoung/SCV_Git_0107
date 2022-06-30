@@ -1,4 +1,4 @@
-![Logo](Git-logo_white.png)
+![Logo](Git-logo_black.png)
 
 # Работа с Git
 
@@ -176,7 +176,7 @@ master = master + linking
 
 # Картинки в Markdown
 
-осталось вставить картинку и дописать этот раздел
+
 
 # Удалённый репозиторий
 
