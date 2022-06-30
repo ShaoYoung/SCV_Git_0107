@@ -165,6 +165,8 @@ git log
 
 # Ссылки в Markdown
 
+[С указанием ссылки сразу](https://www.google.com)
+
 # Картинки в Markdown
 
 # Удалённый репозиторий
