@@ -165,6 +165,9 @@ git log
 
 # Ссылки в Markdown
 
+master = master + linking
+в свою очередь, linking = linking + link_1, а затем linking = linking + link_2
+
 Есть 2 способа создать ссылку
 [С указанием ссылки сразу](https://www.google.com)
 [С указанием ссылки в сноске][Arbitrary case-insensitive reference text]
